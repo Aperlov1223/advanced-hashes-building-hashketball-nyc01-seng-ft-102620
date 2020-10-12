@@ -2,7 +2,7 @@
 game_hash = {
   :home=> {
     :team_name=> "Brooklyn Nets"
-    :colors=> ["Black, White"]
+    :colors=> ["Black, White"]}
     :players=> [
     {:player_name => "Alan Anderson"
       :number => 0
@@ -107,7 +107,7 @@ game_hash = {
                                                     :assists=> 12
                                                     :steals=> 7
                                                     :blocks=> 5
-                                                    :slam_dunks=> 12,    
+                                                    :slam_dunks=> 12,
     }]
 }
 }
